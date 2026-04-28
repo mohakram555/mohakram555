@@ -5,13 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=17+y%2Fo+Senior;Frontend+Developer;Basketball+%26+Cycling+Enthusiast" alt="Typing SVG" />
 
 ---
-
-### Currently Listening
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zk7jskgkylztufhrif4das6kvq&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zk7jskgkylztufhrif4das6kvq&redirect=true)
-
----
-
 ### About
 
 ```typescript
@@ -24,6 +17,12 @@ const developer = {
     philosophy: "We all self-conscious, I'm just the first to admit it"
 };
 ```
+
+---
+
+### Currently Listening
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zk7jskgkylztufhrif4das6kvq&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zk7jskgkylztufhrif4das6kvq&redirect=true)
 
 ---
 
