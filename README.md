@@ -2,7 +2,7 @@
 
 # Mohamed Akram
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=650&lines=17+y%2Fo+Developer+%7C+High+School+Senior;Building+Fast%2C+Clean%2C+Accessible+Interfaces;We+all+self-conscious%2C+I'm+just+the+first+to+admit+it" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=650&lines=17+y%2Fo+Developer+%7C+High+School+Senior;Building+Fast%2C+Clean%2C+Accessible+Interfaces" alt="Typing SVG" />
 
 ---
 
@@ -14,9 +14,9 @@ const developer = {
     status: "High School Senior",
     focus: ["Frontend", "Performance", "Open Source"],
     interests: ["Basketball", "Cycling", "Music"],
-    currently: "Building NexusMail & launching mohamedakram.me",
+    currently: "Building NexusMail & Building Portfolio",
     onDeck: "Shipping projects, learning in public",
-    philosophy: "We all self-conscious, I'm just the first to admit it"
+    philosophy: "Make it useful, make it fast, make it feel effortless"
 };
 ```
 
@@ -33,7 +33,7 @@ const developer = {
 **[NexusMail](https://nexusmail.xyz)** — Self-hosted disposable email service with auto-verification code extraction  
 `FastAPI • React • aiosmtpd • SQLite`
 
-**mohamedakram.me** — Personal blog & portfolio (coming soon)
+**[Blog!](https://mohamedakram.me)** — Personal blog & portfolio (coming soon)
 
 ---
 
@@ -78,7 +78,7 @@ const developer = {
   <a href="https://mohamedakram.me">
     <img src="https://img.shields.io/badge/Website-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
-  <a href="mailto:contact@nexusmail.xyz">
+  <a href="mailto:contact@mohamedakram.me">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
