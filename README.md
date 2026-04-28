@@ -2,13 +2,11 @@
 
 # Mohamed Akram
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=17+y%2Fo+Senior;Frontend+Developer;We+all+self-conscious%2C+I%27m+just+the+first+to+admit+it" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=17+y%2Fo+Senior;Frontend+Developer;Building+for+an+open+web" alt="Typing SVG" />
 
 ---
 
 ### About
-
-<p align="center">
 
 ```typescript
 const developer = {
@@ -21,7 +19,11 @@ const developer = {
 };
 ```
 
-</p>
+---
+
+### Currently Listening
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zk7jskgkylztufhrif4das6kvq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
@@ -29,10 +31,6 @@ const developer = {
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohakram555&theme=dark&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohakram555&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="Top Languages" />
 </p>
 
 ---
@@ -51,19 +49,13 @@ const developer = {
 
 ---
 
-### Currently Listening
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zk7jskgkylztufhrif4das6kvq&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zk7jskgkylztufhrif4das6kvq&redirect=true)
-
----
-
 ### Connect
 
 <p align="center">
   <a href="https://github.com/mohakram555">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:contact@mohamedakram.me">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
