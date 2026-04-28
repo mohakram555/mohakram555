@@ -14,6 +14,8 @@
 
 ### About
 
+<p align="center">
+
 ```typescript
 const developer = {
     age: 17,
@@ -24,6 +26,20 @@ const developer = {
     philosophy: "We all self-conscious, I'm just the first to admit it"
 };
 ```
+
+</p>
+
+---
+
+### Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohakram555&theme=dark&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohakram555&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="Top Languages" />
+</p>
 
 ---
 
