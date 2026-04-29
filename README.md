@@ -29,9 +29,11 @@ const developer = {
 ---
 
 ### Currently Building
-
 **[NexusMail](https://nexusmail.xyz)** — Self-hosted disposable email service with auto-verification code extraction  
 `FastAPI • React • aiosmtpd • SQLite`
+
+**[Agartha: False Guide](https://github.com/mohakram555/ship-to-agartha)** — Browser-based space shooter with a 30-level story campaign, boss fights, and procedural canvas effects  
+`Vanilla JS • HTML5 Canvas • Web Audio • CSS`
 
 **[Blog!](https://mohamedakram.me)** — Personal blog & portfolio (coming soon)
 
@@ -54,7 +56,6 @@ const developer = {
 ---
 
 ### Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -65,6 +66,7 @@ const developer = {
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
 ---
