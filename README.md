@@ -10,8 +10,8 @@
 
 ```typescript
 const developer = {
-    age: 17,
-    status: "High School Senior",
+    age: 18,
+    status: "High School Graduate",
     focus: ["Frontend", "Performance", "Open Source"],
     interests: ["Basketball", "Cycling", "Music"],
     currently: "Building NexusMail & Building Portfolio",
