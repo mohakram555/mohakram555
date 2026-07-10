@@ -2,7 +2,7 @@
 
 # Mohamed Akram
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=650&lines=17+y%2Fo+Developer+%7C+High+School+Senior;Building+Fast%2C+Clean%2C+Accessible+Interfaces" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=650&lines=18+y%2Fo+Developer+%7C+High+School+Graduate;Building+Fast%2C+Clean%2C+Accessible+Interfaces" alt="Typing SVG" />
 
 ---
 
